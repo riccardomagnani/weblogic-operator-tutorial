@@ -14,6 +14,7 @@ Oracle services being used during the hands-on are the following:
 + **Oracle Container Engine for Kubernetes (OKE)** is an Oracle managed Kubernetes Cluster enviroment to deploy and run container packaged applications.
 + **Oracle Weblogic Kubernetes Operator** open source component to run WebLogic on Kubernetes.
 
+
 ### The topics to be covered in this tutorial: ###
 
 1. [Build and deploy WebLogic domain on Kubernetes using Docker image with the WebLogic domain inside the image deployment](tutorials/domain-home-in-image.md)
