@@ -13,7 +13,7 @@ import="java.net.InetAddress"%>
 <!DOCTYPE html>
 <html>
 <body>
-	<h1><font color="red">PLUTO PIPPO WebLogic Operator Demo App - MBean properties:</font></h1>
+	<h1><font color="blue">PLUTO PIPPO WebLogic Operator Demo App - MBean properties:</font></h1>
 <br>
 	<%
 		String jdbcDataSourceName = request.getParameter("dsname");
